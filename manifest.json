@@ -1,0 +1,10 @@
+{
+  "name": "Quando é o próximo 5º dia útil ?",
+  "description": "Uma extensão para saber quando é o próximo quinto dia útil.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+      "default_popup": "hello.html",
+      "default_icon": "hello_extensions.png"
+  }
+}
