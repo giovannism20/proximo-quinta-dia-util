@@ -1,0 +1,27 @@
+{
+  "name": "proximo-quinta-dia-util",
+  "version": "1.0.0",
+  "engines": {
+    "node": "22.14.0",
+    "npm": "11.3.0"
+  },
+  "description": "Uma extensão para saber quando é o próximo quinto dia útil.",
+  "homepage": "https://github.com/giovannism20/proximo-quinta-dia-util#readme",
+  "bugs": {
+    "url": "https://github.com/giovannism20/proximo-quinta-dia-util/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannism20/proximo-quinta-dia-util.git"
+  },
+  "license": "ISC",
+  "author": "Giovanni Martins",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
